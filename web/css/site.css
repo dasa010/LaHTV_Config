@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02-04-2014, 10:06:53 PM
+    Author     : Dasael Sandoval
+*/
+
+#container{
+    margin-left:10%;
+    margin-right:10%;
+}
+#error{
+    color: red;
+}
+
+#user-info{
+    margin-left: 80%;
+}
+
+#user-info a{
+    text-decoration: none;
+}
+
+#footer{
+    background-color: #3359c4;
+    border-radius: 0 0 10px 10px;
+}
+
+#footer em{
+    color: #fff;
+}
+
+#footer a{
+    color:#fff;
+    text-decoration:none;
+}
+
+#footer a:hover{
+    color:#9ea2a5;
+}
